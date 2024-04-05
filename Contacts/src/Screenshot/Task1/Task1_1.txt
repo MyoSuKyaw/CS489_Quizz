@@ -1,0 +1,14 @@
+
+
+Task 1.1: Functional Requirements
+
+- Add a new contact with fields for first name, last name, company, job title, zero or more phone numbers, and zero or more email addresses.
+
+- Update an existing contact's information including first name, last name, company, job title, phone numbers, and email addresses.
+
+- Delete an existing contact from the system.
+
+- Search for contacts based on first name, last name, company, job title, phone numbers, or email addresses.
+
+Merge duplicate contacts by comparing first name, last name, company, job title, phone numbers, and email addresses.
+
